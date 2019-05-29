@@ -1,0 +1,3 @@
+- name: "Gether facts"
+  gather_facts: yes
+  connection: local
